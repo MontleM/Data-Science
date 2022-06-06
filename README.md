@@ -17,4 +17,4 @@ The results from the prediction will help companies better understand their cust
 
 Iris Flower Classification is the hello world of Machine Learning Classification in a nutshell. It is a basic example of a Classification model.
 
-Link: https://127.0.0.1:8501
+Link: http://192.168.0.111:8501
